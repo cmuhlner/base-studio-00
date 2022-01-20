@@ -14,5 +14,6 @@ public class MilageReport {
 		double totalPrice = totalGallons * pricePerGallon;
 		
 		System.out.println("Total price spent on gas was $" + totalPrice);
+		// 　done
 	}
 }
