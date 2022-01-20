@@ -6,5 +6,6 @@ public class Message {
 		System.out.println("Say hi to your group mates!");
 	//HEllo world
 		//hi
+		//Hey
 	}
 }
